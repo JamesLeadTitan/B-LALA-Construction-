@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blalaconstruction.co.uk/sitemap.xml
